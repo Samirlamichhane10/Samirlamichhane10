@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samir lamichhane Chhetri</h1>
 <h3 align="center">A passionate computer engineering student from Pokhara ,Nepal</h3>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI/ML** and **Flutter**.
 
 - 📫 How to reach me **samirlamichhane10@gmail.com**
 
